@@ -1,2 +1,2 @@
 # Gerador-QrCode
-Um projeto de geração de Qr Code colocando texto ou url
+Um projeto de gerar de Qr Code colocando texto ou url
