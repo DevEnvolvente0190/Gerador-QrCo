@@ -76,3 +76,11 @@ header p{
     pointer-events: auto;
     transition: apacity 0.5s ease;
 }
+@media screen , (max-widht:414 ) {
+    body{
+        overflow: hidden;
+    }
+    .wrapper{
+        width: 350px;
+    }
+}
